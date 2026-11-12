@@ -1,0 +1,13 @@
+# 换行符：让 git 自动识别文本文件，检出时保持 Windows 习惯
+* text=auto
+
+# 二进制资源，声明后 git 不会尝试做文本 diff
+*.png   binary
+*.jpg   binary
+*.tga   binary
+*.dds   binary
+*.s3o   binary
+*.glb   binary
+*.wav   binary
+*.ogg   binary
+*.zip   binary
