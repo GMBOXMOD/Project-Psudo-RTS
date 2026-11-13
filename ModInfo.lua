@@ -1,9 +1,9 @@
 local modinfo = {
-	name = "My Game",
-	shortname = "MG",
-	game = "My Game",
-	shortgame = "MG",
-	description = "我的第一个 Recoil 游戏",
+	name = "Project Psudo",
+	shortname = "PP",
+	game = "Project Psudo",
+	shortgame = "PP",
+	description = "低模特色RTS，目前正在开发重。",
 	version = "v0.1",
 	modtype = 1,
 
